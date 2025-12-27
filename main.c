@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "lib.h"
 
 int main (void){
 	
@@ -8,5 +8,6 @@ int main (void){
 
 	printf("Soy Nat\n");
 	
+	hola_fer();
 	return 0;
 }
