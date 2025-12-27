@@ -6,5 +6,7 @@ int main (void){
 
 	printf("Soy Harun\n");
 
+	printf("Soy Nat\n");
+	
 	return 0;
 }
